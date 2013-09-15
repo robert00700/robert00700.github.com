@@ -5,6 +5,9 @@ HELLO, WORLD
 
 ``` scala
     val x = 2
+    for(x <- 1 to 5) {
+        println(x)
+    }
 ```
 
 
